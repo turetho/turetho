@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @turetho
-- 👀 I’m interested in all sorts of programming
+- 👀 I’m interested mostly in programming
 - 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on whatever that's fun
 
